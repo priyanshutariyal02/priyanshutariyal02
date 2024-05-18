@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Computer Science Engineer | Web developer
+Aspiring Software Developer
 <img align ="right" width = "400" src = "https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
 
 
