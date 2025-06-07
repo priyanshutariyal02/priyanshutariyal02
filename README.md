@@ -1,7 +1,11 @@
 # 💫 About Me:
-A passionate Software Developer from India 🇮🇳<br>
-I'm currently learning advanced backend development with Node.js & TypeScript, integration of APIs, and deploying apps using Docker and Google Cloud.<br>
-Ask me about Next.js, Tailwind CSS, API integrations, and building real-world apps that actually solve problems.
+Hi, I’m a passionate Software Developer from India 🇮🇳  
+Currently diving deep into advanced backend development with **Node.js**, **TypeScript**, and **API integration**, while also mastering deployment using **Docker** and **Google Cloud**.
+
+I love building real-world applications that solve real problems.  
+
+**Ask me about:**  
+**Next.js** • **Tailwind CSS** • **API Integrations** • **Full-stack Development**
 
 ## ⚡ Fun Fact
 I enjoy turning random ideas into functional apps just for fun—and I love battling with errors more than writing clean code 🫡!<br>
