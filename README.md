@@ -1,5 +1,6 @@
 # 💫 About Me:
-Aspiring Software Developer
+A passionate Software Developer from India 🇮🇳
+🌱 I'm currently learning<br>Advanced backend development with Node.js & TypeScript, integration of APIs, and deploying apps using Docker and Google Cloud.<br>💬 Ask me about<br>Next.js, Tailwind CSS, API integrations, and building real-world apps that actually solve problems.<br>⚡ Fun fact<br>I enjoy turning random ideas into functional apps just for fun—and I love battling with errors more than watching movies 🫡!<br>
 <img align ="right" width = "400" src = "https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
 
 
@@ -26,4 +27,3 @@ Aspiring Software Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshutariyal02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
