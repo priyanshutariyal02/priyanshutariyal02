@@ -1,8 +1,11 @@
 # 💫 About Me:
-A passionate Software Developer from India 🇮🇳
-🌱 I'm currently learning<br>Advanced backend development with Node.js & TypeScript, integration of APIs, and deploying apps using Docker and Google Cloud.<br>💬 Ask me about<br>Next.js, Tailwind CSS, API integrations, and building real-world apps that actually solve problems.<br>⚡ Fun fact<br>I enjoy turning random ideas into functional apps just for fun—and I love battling with errors more than watching movies 🫡!<br>
-<img align ="right" width = "400" src = "https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
+A passionate Software Developer from India 🇮🇳<br>
+🌱 I'm currently learning advanced backend development with Node.js & TypeScript, integration of APIs, and deploying apps using Docker and Google Cloud.<br>💬 Ask me about Next.js, Tailwind CSS, API integrations, and building real-world apps that actually solve problems.
 
+## ⚡ Fun Fact
+I enjoy turning random ideas into functional apps just for fun—and I love battling with errors more than writing clean code 🫡!<br>
+
+<img align ="right" width = "400" src = "https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshutariyalvlogs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-tariyal-92900021a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/priyanshutariy7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@priyanshutariyalvlogs) 
