@@ -34,6 +34,3 @@ I enjoy turning random ideas into functional apps just for fun—and I love batt
 
 [![](https://visitcount.itsvg.in/api?id=priyanshutariyal02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤝 contributions
-<img src="https://raw.githubusercontent.com/priyanshutariyal02/priyanshutariyal02/output/snake.svg" alt="Snake animation" />
-
