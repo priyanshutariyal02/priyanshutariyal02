@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m a passionate Software Developer from India 🇮🇳  
+Hi, I’m a Software Developer from India 🇮🇳  
 Currently diving deep into advanced backend development with **Node.js**, **TypeScript**, and **API integration**, while also mastering deployment using **Docker** and **Google Cloud**.
 
 I love building real-world applications that solve real problems.  
