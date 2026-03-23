@@ -63,39 +63,6 @@
 
 ---
 
-<!-- ╔══════════ PROJECT MODULES ══════════╗ -->
-
-```zsh
-❯ ls ./projects --details
-```
-
-<table>
-<tr>
-  <td>
-
-### AI Stock Market RAG System
-`React` `Python` `Qdrant` `Gemini API` `LlamaIndex`
-
-End-to-end **Retrieval-Augmented Generation** pipeline for semantic, typo-tolerant stock market queries. Vector indexing + context-aware Gemini responses = near-zero hallucinations.
-
-> *"Search like a human. Answer like a machine."*
-
-  </td>
-  <td>
-
-### Social Media Backend
-`Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT`
-
-Production-grade REST API featuring **JWT access/refresh auth**, protected routing, modular middleware, MongoDB aggregation pipelines, and cloud media via Cloudinary.
-
-> *"Built for scale. Designed to not break at 3am."*
-
-  </td>
-</tr>
-</table>
-
----
-
 <!-- ╔══════════ TECH STACK MATRIX ══════════╗ -->
 
 ```zsh
