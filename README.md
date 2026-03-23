@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m a Software Developer from India 🇮🇳  
 Currently diving deep into advanced backend development with **Node.js**, **TypeScript**, and **API integration**, while also mastering deployment using **Docker** and **Google Cloud**.
 
@@ -7,15 +7,15 @@ I love building real-world applications that solve real problems.
 **Ask me about:**  
 **Next.js** • **Tailwind CSS** • **API Integrations** • **Full-stack Development**
 
-## ⚡ Fun Fact
+## Fun Fact
 I enjoy turning random ideas into functional apps just for fun—and I love battling with errors more than writing clean code 🫡!<br>
 
 <img align ="right" width = "400" src = "https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshutariyalvlogs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-tariyal-92900021a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/priyanshutariy7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@priyanshutariyalvlogs) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -49,18 +49,15 @@ I enjoy turning random ideas into functional apps just for fun—and I love batt
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshutariyal02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutariyal02&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshutariyal02&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutariyal02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshutariyal02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=priyanshutariyal02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=priyanshutariyal02&icon=0&color=0)](https://visitcount.itsvg.in)
