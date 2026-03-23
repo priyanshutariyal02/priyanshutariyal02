@@ -1,64 +1,212 @@
-# About Me:
-Hi, I’m a Software Developer from India 🇮🇳  
-Currently diving deep into advanced backend development with **Node.js**, **TypeScript**, and **API integration**, while also mastering deployment using **Docker** and **Google Cloud**.
+<!-- ████████████████████████████████████████████████████ -->
+<!--              BOOT SEQUENCE INITIATED                  -->
+<!-- ████████████████████████████████████████████████████ -->
 
-I love building real-world applications that solve real problems.  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,100:0f3460&height=200&section=header&text=PRIYANSHU.EXE&fontColor=00fff9&fontSize=52&fontAlignY=55&desc=SYSTEM+LOADED+✦+DEV+MODE+ACTIVE&descAlignY=75&descSize=14&animation=fadeIn&stroke=00fff9&strokeWidth=2" width="100%"/>
+</div>
 
-**Ask me about:**  
-**Next.js** • **Tailwind CSS** • **API Integrations** • **Full-stack Development**
+<br/>
 
-## Fun Fact
-I enjoy turning random ideas into functional apps just for fun—and I love battling with errors more than writing clean code 🫡!<br>
+<!-- Terminal Typing Boot Screen -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=00FFF9&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=700&height=45&lines=%5BBOOT%5D+Initializing+Priyanshu+Tariyal...;%5BOK%5D+Backend+Engineer+loaded+%E2%9C%94;%5BOK%5D+TypeScript+%2B+Node.js+runtime+active+%E2%9C%94;%5BOK%5D+RAG+%2B+AI+systems+online+%E2%9C%94;%5BSTATUS%5D+Building+things+that+matter+%F0%9F%9A%80;%5BWARNING%5D+May+debug+for+18hrs+straight+%F0%9F%AB%A1" />
+</div>
 
-<img align ="right" width = "400" src = "https://static.vecteezy.com/system/resources/previews/011/153/365/original/3d-web-developer-working-on-project-illustration-png.png">
+<br/>
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshutariyalvlogs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-tariyal-92900021a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/priyanshutariy7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@priyanshutariyalvlogs) 
+---
 
-# Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+<!-- ╔══════════ SYSTEM PROFILE ══════════╗ -->
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+```zsh
+❯ whoami
+```
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
+```json
+{
+  "name"       : "Priyanshu Tariyal",
+  "title"      : "Software Developer @ Indeva, New Delhi 🇮🇳",
+  "education"  : "B.Tech CSE — Graphic Era Hill University (2021–2025)",
+  "status"     : "Open to collabs & interesting problems",
+  "focus"      : ["Microservices", "RAG/AI Systems", "TypeScript", "Docker + GCP"],
+  "philosophy" : "Ship fast. Break things. Fix them faster.",
+  "superpower" : "Turning 3am ideas into prod-ready backends"
+}
+```
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
+---
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<!-- ╔══════════ XTERM EXPERIENCE ══════════╗ -->
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300748F.svg?style=flat&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+```zsh
+❯ cat ./experience.log
+```
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshutariyal02&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutariyal02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🔷  Indeva                                    Mar 2025 – Present   │
+│      Software Developer · New Delhi, IN                             │
+│                                                                     │
+│  ▸  Auth, RBAC & secure backend services for production systems     │
+│  ▸  Microservices in Node.js · TypeScript · Python · PostgreSQL     │
+│  ▸  Query optimization, storage efficiency, architecture reviews    │
+├─────────────────────────────────────────────────────────────────────┤
+│  🔶  Defensium Labs                             Jul 2024 – Oct 2024 │
+│      Software Dev Intern · Remote, Rajasthan                        │
+│                                                                     │
+│  ▸  Full-stack platform (Next.js + TypeScript) — end to end         │
+│  ▸  Role-based freelancing system: Admin / Client / Freelancer      │
+│  ▸  Azure + MongoDB Cosmos DB cloud integration                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshutariyal02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ╔══════════ PROJECT MODULES ══════════╗ -->
 
-[![](https://visitcount.itsvg.in/api?id=priyanshutariyal02&icon=0&color=0)](https://visitcount.itsvg.in)
+```zsh
+❯ ls ./projects --details
+```
 
+<table>
+<tr>
+  <td>
+
+### AI Stock Market RAG System
+`React` `Python` `Qdrant` `Gemini API` `LlamaIndex`
+
+End-to-end **Retrieval-Augmented Generation** pipeline for semantic, typo-tolerant stock market queries. Vector indexing + context-aware Gemini responses = near-zero hallucinations.
+
+> *"Search like a human. Answer like a machine."*
+
+  </td>
+  <td>
+
+### Social Media Backend
+`Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT`
+
+Production-grade REST API featuring **JWT access/refresh auth**, protected routing, modular middleware, MongoDB aggregation pipelines, and cloud media via Cloudinary.
+
+> *"Built for scale. Designed to not break at 3am."*
+
+  </td>
+</tr>
+</table>
+
+---
+
+<!-- ╔══════════ TECH STACK MATRIX ══════════╗ -->
+
+```zsh
+❯ cat ./stack.matrix
+```
+
+**⬡ Core Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**⬡ Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**⬡ Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**⬡ Data & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**⬡ AI / Vector Systems**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C3483?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+<!-- ╔══════════ GITHUB METRICS ══════════╗ -->
+
+```zsh
+❯ ./fetch-stats --user priyanshutariyal02
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&icon_color=00fff9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshutariyal02&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00fff9&fire=ff6b6b&currStreakLabel=00fff9" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutariyal02&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&layout=compact" width="42%"/>
+
+</div>
+
+---
+
+<!-- ╔══════════ CONTRIBUTION SNAKE ══════════╗ -->
+
+```zsh
+❯ run contribution-snake.exe
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshutariyal02/priyanshutariyal02/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshutariyal02/priyanshutariyal02/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/priyanshutariyal02/priyanshutariyal02/output/github-snake-dark.svg" width="95%"/>
+  </picture>
+</div>
+
+---
+
+<!-- ╔══════════ TROPHIES ══════════╗ -->
+
+```zsh
+❯ display --trophies
+```
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshutariyal02&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+
+---
+
+<!-- ╔══════════ CONNECT ══════════╗ -->
+
+```zsh
+❯ ping priyanshu --all-channels
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-tariyal-92900021a)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyanshutariy7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshutariyalvlogs)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@priyanshutariyalvlogs)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tariyalpriyanshu6@gmail.com)
+
+</div>
+
+<!-- ████████████████████████████████████████████████████ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f3460,100:0d0d0d&height=120&section=footer&text=CONNECTION+CLOSED&fontColor=00fff9&fontSize=20&fontAlignY=55&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=priyanshutariyal02&label=PROCESS+VIEWS&color=12&icon=5&pretty=true"/>
+</div>
