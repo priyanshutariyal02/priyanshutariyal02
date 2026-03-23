@@ -29,9 +29,9 @@
   "title"      : "Software Developer @ Indeva, New Delhi 🇮🇳",
   "education"  : "B.Tech CSE — Graphic Era Hill University (2021–2025)",
   "status"     : "Open to collabs & interesting problems",
-  "focus"      : ["Microservices", "RAG/AI Systems", "TypeScript", "Docker + GCP"],
-  "philosophy" : "Ship fast. Break things. Fix them faster.",
-  "superpower" : "Turning 3am ideas into prod-ready backends"
+  "focus"      : ["Microservices", "System Design", "RAG/AI Systems", "TypeScript", "Docker + GCP"],
+  "philosophy" : "Plan before build. Break it into steps. Solve one piece at a time — iterate until it's right.",
+  "superpower" : "Deep thinker. Visual mind. Divide & conquer problems, then build something worth shipping."
 }
 ```
 
