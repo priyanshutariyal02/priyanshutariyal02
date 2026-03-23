@@ -148,7 +148,8 @@ Production-grade REST API featuring **JWT access/refresh auth**, protected routi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&icon_color=00fff9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&icon_color=00fff9" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshutariyal02&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00fff9&fire=ff6b6b&currStreakLabel=00fff9" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutariyal02&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&layout=compact" width="42%"/>
@@ -164,23 +165,7 @@ Production-grade REST API featuring **JWT access/refresh auth**, protected routi
 ```
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshutariyal02/priyanshutariyal02/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshutariyal02/priyanshutariyal02/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/priyanshutariyal02/priyanshutariyal02/output/github-snake-dark.svg" width="95%"/>
-  </picture>
-</div>
-
----
-
-<!-- ╔══════════ TROPHIES ══════════╗ -->
-
-```zsh
-❯ display --trophies
-```
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshutariyal02&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
 ---
@@ -208,5 +193,5 @@ Production-grade REST API featuring **JWT access/refresh auth**, protected routi
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=priyanshutariyal02&label=PROCESS+VIEWS&color=12&icon=5&pretty=true"/>
+  <img src="https://komarev.com/ghpvc/?username=priyanshutariyal02&label=PROCESS+VIEWS&color=00fff9&style=for-the-badge"/>
 </div>
