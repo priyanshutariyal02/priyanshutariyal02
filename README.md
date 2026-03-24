@@ -160,5 +160,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshutariyal02&label=PROCESS+VIEWS&color=00fff9&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=priyanshutariyal02&label=PROCESS+VIEWS&color=1CB0AC&style=for-the-badge"/>
 </div>
