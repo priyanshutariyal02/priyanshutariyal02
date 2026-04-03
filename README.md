@@ -115,11 +115,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&icon_color=00fff9" width="49%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=priyanshutariyal02&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&icon_color=00fff9" width="49%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshutariyal02&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00fff9&fire=ff6b6b&currStreakLabel=00fff9" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutariyal02&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&layout=compact" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutariyal02&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff9&text_color=ffffff&layout=compact" width="42%"/> -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshutariyal02&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00fff9&fire=ff6b6b&currStreakLabel=00fff9" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshutariyal02&theme=tokyonight&hide_border=true&background=0d0d0d" width="42%" />
 
 </div>
 
@@ -132,7 +136,9 @@
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshutariyal02&theme=tokyo-night&hide_border=true&background=0d0d0d"/>
+
 </div>
 
 ---
