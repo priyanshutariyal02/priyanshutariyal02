@@ -132,7 +132,7 @@
 <!-- ╔══════════ CONTRIBUTION SNAKE ══════════╗ -->
 
 ```zsh
-❯ run contribution-snake.exe
+❯ run contribution-graph.exe
 ```
 
 <div align="center">
