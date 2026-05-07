@@ -45,14 +45,14 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  $  Indeva                                      Mar 2025 – Present  │
+│  $  Indeva                                       Mar 2025 – Present │
 │     Software Developer · New Delhi, IN                              │
 │                                                                     │
 │  ▸  Auth, RBAC & secure backend services for production systems     │
 │  ▸  Microservices in Node.js · TypeScript · Python · PostgreSQL     │
 │  ▸  Query optimization, storage efficiency, architecture reviews    │
 ├─────────────────────────────────────────────────────────────────────┤
-│  $  Defensium Labs                             Jul 2024 – Oct 2024  │
+│  $  Defensium Labs                              Jul 2024 – Oct 2024 │
 │     Software Dev Intern · Remote, Rajasthan                         │
 │                                                                     │
 │  ▸  Full-stack platform (Next.js + TypeScript) — end to end         │
